@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Petrik Siano
 - 👀 I’m interested in Data Analysis and Business Intelligence
 - 🌱 I’m currently learning R and Python
-- 📫 How to reach me https://linktr.ee/petriksiano  
+- 📫 You can reach me by https://linktr.ee/petriksiano  
 
 <!---
 strigoimort/strigoimort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
