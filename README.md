@@ -13,8 +13,8 @@
      - Ikatan Mahasiswa Studi Offshore (IMSO) Indonesia  
      - Surveyor of Ocean Area (SONAR) Undip  
    - **Assistance**  
-     - Field Asistant of Ocean Currents  
-     - Field Asistant of Coastal and Marine Disaster Mitigation
+     - Field Assistant of Ocean Currents  
+     - Field Assistant of Coastal and Marine Disaster Mitigation
 
 ## Work Experience
 #### 1. [GAO RFID Inc.](https://www.gaorfid.com) | Business Development | Ontario `Nov 2023 - Present`
@@ -27,7 +27,7 @@
    - Executed business analysis from databases with design thinking, storytelling, and business presentations using 3 methods: user journey maps, data product canvas, and business flow
    - Accomplished project-based learning in 4 e-commerce companies using data analytics stacks like SQL, Python, and Looker Studio to gain insight
 
-### Languages and Tools:
+### Languages and Tools
 [<img align="left" alt="BigQuery" width="30px" src="https://assets-global.website-files.com/5abc6c4b0a243a2dc939ee6e/5fdb995550a781d7c0c4ec5f_google-bigquery-logo-1.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]()
 [<img align="left" alt="R" width="30px" src="https://e7.pngegg.com/pngimages/801/880/png-clipart-rstudio-macos-r-blue-text.png" style="padding-right:10px;" />]()
