@@ -9,7 +9,7 @@
 
 ## Education
 #### [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Oceanography | Semarang `2019-2023`
-   - **Experience**  
+   - **Organization**  
      - Ikatan Mahasiswa Studi Offshore (IMSO) Indonesia  
      - Surveyor of Ocean Area (SONAR) Undip  
    - **Assistance**  
@@ -28,23 +28,22 @@
    - Accomplished project-based learning in 4 e-commerce companies using data analytics stacks like SQL, Python, and Looker Studio to gain insight
 
 ### Languages and Tools:
-[<img align="left" alt="BigQuery" width="30px" src="https://lh3.googleusercontent.com/p9ST3mhfKqDdxwwgyGHCFmCddgFeHnYlQfCbORDHJm48z1cZhEknPXlbY_iGsnr2sIPk8EVanoqGjA=s24-w24-rw-lo" style="padding-right:10px;" />]()
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="BigQuery" width="30px" src="https://assets-global.website-files.com/5abc6c4b0a243a2dc939ee6e/5fdb995550a781d7c0c4ec5f_google-bigquery-logo-1.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]()
+[<img align="left" alt="R" width="30px" src="https://e7.pngegg.com/pngimages/801/880/png-clipart-rstudio-macos-r-blue-text.png" style="padding-right:10px;" />]()
+[<img align="left" alt="IDL" width="30px" src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63064c5aa2c397a3e18efdec_31a880de.png" style="padding-right:10px;" />]()
+[<img align="left" alt="Spreadsheet" width="30px" src="https://e7.pngegg.com/pngimages/834/934/png-clipart-microsoft-excel-spreadsheet-pivot-table-microsoft-office-microsoft-template-angle-thumbnail.png" style="padding-right:10px;" />]()
+[<img align="left" alt="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png" style="padding-right:0px;" />]()
+[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />]()
 
 <br />
 <br />
 
 ### Connect with me
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/petriksiano#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/petriksiano#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/petriksiano#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/petriksiano#gh-dark-mode-only)
 
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
