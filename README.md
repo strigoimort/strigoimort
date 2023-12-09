@@ -18,9 +18,9 @@
 
 ## Work Experience
 #### 1. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Present`
-   - Orchestrated identification and recording of over 10 high-quality business opportunities in the CRM system with a 50% conversion rate among highly interested prospects.
-   - Engineered lead generation campaigns across diverse industries, capturing genuine interest from potential customers in manufacturing, healthcare, construction, oil and gas, and mining in Saudi Arabia.
-   - Spearheaded the establishment of strategic partnerships by researching prospective products in several e-commerce platforms, identifying more than 10 potential products daily.
+   - Orchestrated identification and recording of over 10 high-quality business opportunities in the CRM system with a 50% conversion rate among highly interested prospects
+   - Engineered lead generation campaigns across diverse industries, capturing genuine interest from potential customers in manufacturing, healthcare, construction, oil and gas, and mining in Saudi Arabia
+   - Spearheaded the establishment of strategic partnerships by researching prospective products in several e-commerce platforms, identifying more than 10 potential products daily
 
 #### 2. [Bitlabs Academy](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang `Feb 2023 - June 2023` 
    - Designed business insight into 3 fintech companies through data analysis, including Exploratory Data Analysis (EDA), data cleansing, data visualization, and data dashboarding
