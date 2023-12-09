@@ -17,7 +17,7 @@
      - Field Assistant of Coastal and Marine Disaster Mitigation
 
 ## Work Experience
-#### 1. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Present`
+#### 1. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Dec 2023`
    - Orchestrated identification and recording of over 10 high-quality business opportunities in the CRM system with a 50% conversion rate among highly interested prospects
    - Engineered lead generation campaigns across diverse industries, capturing genuine interest from potential customers in manufacturing, healthcare, construction, oil and gas, and mining in Saudi Arabia
    - Spearheaded the establishment of strategic partnerships by researching prospective products in several e-commerce platforms, identifying more than 10 potential products daily
