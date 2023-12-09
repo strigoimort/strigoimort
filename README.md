@@ -41,9 +41,9 @@
 
 ### Connect with me
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/petriksiano#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/petriksiano#gh-dark-mode-only)
+[![website title="Linkedin";](./img/linkedin-light.svg)](https://www.linkedin.com/in/petriksiano#gh-light-mode-only)
+[![website title="Linkedin";](./img/linkedin-dark.svg)](https://www.linkedin.com/in/petriksiano#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/petriksiano#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/petriksiano#gh-dark-mode-only)
+[![website title="Instagram";](./img/instagram-light.svg)](https://instagram.com/petriksiano#gh-light-mode-only)
+[![website title="Instagram";](./img/instagram-dark.svg)](https://instagram.com/petriksiano#gh-dark-mode-only)
 
