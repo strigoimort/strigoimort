@@ -17,7 +17,7 @@
      - Field Assistant of Coastal and Marine Disaster Mitigation
 
 ## Work Experience
-#### 1. [GAO RFID Inc.](https://www.gaorfid.com) | Business Development | Ontario `Nov 2023 - Present`
+#### 1. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Present`
    - Orchestrated the identification and recording of 30 high-quality business opportunities in the CRM system, achieving an impressive 50% conversion of highly interested prospects
    - Engineered and executed impactful lead generation campaigns across diverse industries, captivating genuine interest from potential customers in manufacturing, healthcare, construction, transportation, oil and gas, and mining
    - Spearheaded the establishment of strategic partnerships by captivating and engaging potential channel partners, including system integrators, resellers, software and hardware developers, and technical service providers
