@@ -40,9 +40,13 @@
 <br />
 
 ### Connect with me
-<img href="https://linkedin.com/in/petriksiano" src="./img/linkedin.svg" width="30px" title="LinkedIn"> &nbsp;
-<img href="https://instagram.com/petriksiano" src="./img/instagram.svg" width="30px" title="Instagram">
-<img href="https://github.com/strigoimort" src="./img/github.svg" width="30px" title="GitHub">
+<img href="https://linkedin.com/in/petriksiano" src="./img/linkedin.svg" width="30px" title="LinkedIn" style="padding-right:5px"> &nbsp;
+<img href="https://instagram.com/petriksiano" src="./img/instagram.svg" width="30px" title="Instagram" style="padding-right:5px"> &nbsp;
+<img href="https://github.com/strigoimort" src="./img/github.svg" width="30px" title="GitHub" style="padding-right:5px"> 
+
+<br>
+<br>
+<br>
 
 
 
