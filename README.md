@@ -48,6 +48,7 @@
 <a href="https://github.com/strigoimort target="_blank" style="padding-right:10px"" 
    <img src="./img/github.svg" width="30px" title="GitHub"> 
 </a> &nbsp;
+
 <br>
 <br>
 
