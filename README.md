@@ -37,15 +37,12 @@
 <img src="./img/tableau.svg" width="30px" title="Tableau" style="padding-right:5px"> &nbsp;
 <img src="./img/powerbi.svg" width="30px" title="Microsoft Power BI" style="padding-right:5px"> &nbsp;
 
-<br />
-<br />
 
 ### Connect with me
 <img href="https://linkedin.com/in/petriksiano" src="./img/linkedin.svg" width="30px" title="LinkedIn" style="padding-right:5px"> &nbsp;
 <img href="https://instagram.com/petriksiano" src="./img/instagram.svg" width="30px" title="Instagram" style="padding-right:5px"> &nbsp;
 <img href="https://github.com/strigoimort" src="./img/github.svg" width="30px" title="GitHub" style="padding-right:5px"> 
 
-<br>
 <br>
 <br>
 
