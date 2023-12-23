@@ -39,13 +39,13 @@
 
 
 ### Connect with me
-<a href="https://linkedin.com/in/petriksiano" style="padding-right:10px"> 
+<a href="https://linkedin.com/in/petriksiano" target="_blank" style="padding-right:10px"> 
    <img src="./img/linkedin.svg" width="30px" title="LinkedIn">
 </a> &nbsp;
-<a href="https://instagram.com/petriksiano" style="padding-right:10px">
+<a href="https://instagram.com/petriksiano" target="_blank" style="padding-right:10px">
    <img src="./img/instagram.svg" width="30px" title="Instagram"> 
 </a> &nbsp;
-<a href="https://github.com/strigoimort style="padding-right:10px"" 
+<a href="https://github.com/strigoimort target="_blank" style="padding-right:10px"" 
    <img src="./img/github.svg" width="30px" title="GitHub"> 
 </a> &nbsp;
 <br>
