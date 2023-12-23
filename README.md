@@ -40,12 +40,9 @@
 <br />
 
 ### Connect with me
+<img href="https://linkedin.com/in/petriksiano" src="./img/linkedin.svg" width="30px" title="LinkedIn"> &nbsp;
+<img href="https://instagram.com/petriksiano" src="./img/instagram.svg" width="30px" title="Instagram">
+<img href="https://github.com/strigoimort" src="./img/github.svg" width="30px" title="GitHub">
 
-[(
-[![website title="Linkedin";](./img/linkedin-light.svg)](https://www.linkedin.com/in/petriksiano#gh-light-mode-only)
-[![website title="Linkedin";](./img/linkedin-dark.svg)](https://www.linkedin.com/in/petriksiano#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website title="Instagram";](./img/instagram-light.svg)](https://instagram.com/petriksiano#gh-light-mode-only)
-[![website title="Instagram";](./img/instagram-dark.svg)](https://instagram.com/petriksiano#gh-dark-mode-only)
 
 
