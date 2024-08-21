@@ -17,12 +17,17 @@
      - Field Assistant of Coastal and Marine Disaster Mitigation
 
 ## Work Experience
-#### 1. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Dec 2023`
+#### 1. [PT. Pangan Lestari](https://www.panganlestari.co.id/) | Purchasing Import | Sidoarjo `Mar 2024 - Present`
+   - Directed the creation of Purchase Orders, orchestrated the scheduling of incoming shipments, and ensured timely receipt and proper storage of goods in the warehouse
+   - Oversaw the organization and verification of Final Documents, including Invoices, Bills of Lading, Certificates of Analysis (COA), Batch and Expiry, and Packing Lists
+   - Maintained and updated product data, including pricing, container loading capacity, lead time, and stock levels, to facilitate informed purchasing decisions and enhance operational efficiency
+
+#### 2. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Dec 2023`
    - Orchestrated identification and recording of over 10 high-quality business opportunities in the CRM system with a 50% conversion rate among highly interested prospects
    - Engineered lead generation campaigns across diverse industries, capturing genuine interest from potential customers in manufacturing, healthcare, construction, oil and gas, and mining in Saudi Arabia
    - Spearheaded the establishment of strategic partnerships by researching prospective products in several e-commerce platforms, identifying more than 10 potential products daily
 
-#### 2. [Bitlabs Academy](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang `Feb 2023 - June 2023` 
+#### 3. [PT. Indobit Digital Raya](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang `Feb 2023 - June 2023` 
    - Designed business insight into 3 fintech companies through data analysis, including Exploratory Data Analysis (EDA), data cleansing, data visualization, and data dashboarding
    - Executed business analysis from databases with design thinking, storytelling, and business presentations using 3 methods: user journey maps, data product canvas, and business flow
    - Accomplished project-based learning in 4 e-commerce companies using data analytics stacks like SQL, Python, and Looker Studio to gain insight
