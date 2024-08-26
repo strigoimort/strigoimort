@@ -12,7 +12,7 @@
    - **Organization**  
      - Ikatan Mahasiswa Studi Offshore (IMSO) Indonesia  
      - Surveyor of Ocean Area (SONAR) Undip  
-   - **Assistance**  
+   - **Learning Assistance**  
      - Field Assistant of Ocean Currents  
      - Field Assistant of Coastal and Marine Disaster Mitigation
 
