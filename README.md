@@ -20,17 +20,17 @@
 #### 1. [PT. Pangan Lestari](https://www.panganlestari.co.id/) | Purchasing Import | Sidoarjo `Mar 2024 - Present`
    - Coordinating shipment schedules and managing the verification of key documents, including Invoices, Bills of Lading, COAs, and Packing Lists.
    - Enhancing product data to support forecast decisions, including pricing, container loading capacity, lead time, and stock levels.
-   - Developing a Notion-based system for tracking and resolving logistics issues and built a web platform for internal product lookup.
+   - Developing a Notion-based system for tracking and resolving logistics issues and building a web platform for internal product lookup.
 
 #### 2. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Dec 2023`
-   - Orchestrated identification and recording of over 10 high-quality business opportunities in the CRM system with a 50% conversion rate among highly interested prospects
-   - Engineered lead generation campaigns across diverse industries, capturing genuine interest from potential customers in manufacturing, healthcare, construction, oil and gas, and mining in Saudi Arabia
-   - Spearheaded the establishment of strategic partnerships by researching prospective products in several e-commerce platforms, identifying more than 10 potential products daily
+   - Identified and recorded over 10 high-quality business opportunities in the CRM, leading to over 50% conversion rate with interested prospects.
+   - Designed lead generation campaigns targeting diverse industries in Saudi Arabia, including manufacturing, healthcare, construction, oil & gas, and mining.
+   - Spearheaded strategic partnerships, researching and identifying over 10 potential products daily on e-commerce platforms.
 
 #### 3. [PT. Indobit Digital Raya](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang `Feb 2023 - June 2023` 
-   - Designed business insight into 3 fintech companies through data analysis, including Exploratory Data Analysis (EDA), data cleansing, data visualization, and data dashboarding
-   - Executed business analysis from databases with design thinking, storytelling, and business presentations using 3 methods: user journey maps, data product canvas, and business flow
-   - Accomplished project-based learning in 4 e-commerce companies using data analytics stacks like SQL, Python, and Looker Studio to gain insight
+   - Designed business insights for 3 fintech companies through data analysis, including EDA, data cleansing, and dashboarding.
+   - Conducted business analysis using design thinking, storytelling, and business presentations, employing user journey maps, data product canvas, and business flow methods.
+   - Completed project-based learning in 4 e-commerce companies, leveraging SQL, Python, and Looker Studio to extract valuable insights.
 
 ### Languages and Tools
 
