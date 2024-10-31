@@ -18,9 +18,9 @@
 
 ## Work Experience
 #### 1. [PT. Pangan Lestari](https://www.panganlestari.co.id/) | Purchasing Import | Sidoarjo `Mar 2024 - Present`
-   - Directed the creation of Purchase Orders, orchestrated the scheduling of incoming shipments, and ensured timely receipt and proper storage of goods in the warehouse
-   - Oversaw the organization and verification of Final Documents, including Invoices, Bills of Lading, Certificates of Analysis (COA), Batch and Expiry, and Packing Lists
-   - Maintained and updated product data, including pricing, container loading capacity, lead time, and stock levels, to facilitate informed purchasing decisions and enhance operational efficiency
+   - Coordinating shipment schedules and managing the verification of key documents, including Invoices, Bills of Lading, COAs, and Packing Lists.
+   - Enhancing product data to support forecast decisions, including pricing, container loading capacity, lead time, and stock levels.
+   - Developing a Notion-based system for tracking and resolving logistics issues and built a web platform for internal product lookup.
 
 #### 2. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Dec 2023`
    - Orchestrated identification and recording of over 10 high-quality business opportunities in the CRM system with a 50% conversion rate among highly interested prospects
