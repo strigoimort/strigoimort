@@ -1,8 +1,8 @@
 # Hi there, I'm Petrik 👋
 ## About me
-🌱 I’m currently learning Python and JavaScript  
-👀 I’m interested in Artificaial Intelligence and Web Development
-👯 I’m looking to collaborate as a Data Analyst  
+🌱 I’m currently learning Python and JavaScript   
+👀 I’m interested in Artificial Intelligence and Web Development   
+👯 I’m looking to collaborate as a Data Analyst   
 >
 📫 Feel free to reach me at [petriksiano24@gmail.com](mailto:petriksiano24.com)    
 🐾 You can also reach me by this [Linktree](https://linktr.ee/petriksiano)
