@@ -32,7 +32,7 @@
    - Conducted business analysis using design thinking, storytelling, and business presentations, employing user journey maps, data product canvas, and business flow methods.
    - Completed project-based learning in 4 e-commerce companies, leveraging SQL, Python, and Looker Studio to extract valuable insights.
 
-### Languages and Tools
+### Tools
 
 <img src="./img/googlebigquery.svg" width="30px" title="Google Bigquery" style="padding-right:5px"> &nbsp;
 <img src="./img/python.svg" width="30px" title="Python" style="padding-right:5px"> &nbsp;
