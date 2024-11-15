@@ -34,11 +34,13 @@
 
 ### Tools
 
+<img src="./img/html5-02-svgrepo-com.svg" width="30px" title="HTML" style="padding-right:5px"> &nbsp;
+<img src="./img/css3-02-svgrepo-com.svg" width="30px" title="CSS" style="padding-right:5px"> &nbsp;
+<img src="./img/javascript-fill-svgrepo-com.svg" width="30px" title="JavaScript" style="padding-right:5px"> &nbsp;
 <img src="./img/googlebigquery.svg" width="30px" title="Google Bigquery" style="padding-right:5px"> &nbsp;
 <img src="./img/python.svg" width="30px" title="Python" style="padding-right:5px"> &nbsp;
 <img src="./img/r.svg" width="30px" title="R" style="padding-right:5px"> &nbsp;
 <img src="./img/idl.svg" width="30px" title="IDL" style="padding-right:5px"> &nbsp;
-<img src="./img/googlesheets.svg" width="30px" title="Google Spreadsheets" style="padding-right:5px"> &nbsp;
 <img src="./img/tableau.svg" width="30px" title="Tableau" style="padding-right:5px"> &nbsp;
 <img src="./img/powerbi.svg" width="30px" title="Microsoft Power BI" style="padding-right:5px"> &nbsp;
 
