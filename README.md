@@ -46,15 +46,15 @@
 
 
 ### Connect with me
-<a href="https://linkedin.com/in/petriksiano" target="_blank" style="padding-right:10px; text-decoration: none; border: none;"> 
+<a href="https://linkedin.com/in/petriksiano" target="_blank" style="text-decoration: none; border: none;"> 
    <img src="./img/linkedin.svg" width="30px" title="LinkedIn" style="border: none; outline: none;">
-</a> &nbsp;
+</a>
 <a href="https://github.com/strigoimort" target="_blank" style="padding-right:10px; text-decoration: none; border: none;"> 
    <img src="./img/github.svg" width="30px" title="GitHub" style="border: none; outline: none;">
-</a> &nbsp;
+</a>
 <a href="https://instagram.com/petriksiano" target="_blank" style="padding-right:10px; text-decoration: none; border: none;">
    <img src="./img/instagram.svg" width="30px" title="Instagram" style="border: none; outline: none;">
-</a> &nbsp;
+</a>
 
 
 
