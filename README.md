@@ -1,4 +1,4 @@
-# Hi there, I'm Petrik 👋
+# Hello there, I'm Petrik 👋
 ## About me
 🌱 I’m currently learning Python and JavaScript   
 👀 I’m interested in Artificial Intelligence   
