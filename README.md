@@ -12,7 +12,7 @@
    - Coordinated shipment schedules and managed import documentation (B/L, COA, COO, CIPL).
    - Monitored import stock levels and leveraged DOI analysis to prevent overstocking or shortage.
    - Optimized product data (pricing trends, container loading capacity, and temporary lead times).
-   - Developed internal tools (Notion-based logistics issue tracker and web-based product lookup).\
+   - Developed internal tools (Notion-based logistics issue tracker and web-based product lookup).
    - Tracked expiry-sensitive inventory and coordinated actions with sales to prevent waste.
 
 #### 2. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Dec 2023`
