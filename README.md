@@ -78,8 +78,8 @@ Participated in an intensive data analytics program with a focus on real busines
 
 ## 🚀 Projects
 
-- 📊 [OceanoHelper](https://github.com/strigoimort/oceanohelper): Visualization tool for oceanographic buoy data using Plotly with time and marker filters.  
-- 📦 [Import Tracker](https://github.com/strigoimort/import-tracker): Notion-inspired internal tool for tracking and optimizing imported goods.
+- 📊 [OceanoHelper](https://github.com/strigoimort/oceanohelper): Visualization tool for oceanographic data.  
+- 📦 [Company Product Lookup](https://github.com/strigoimort/company-product-lookup): Internal company tool for tracking items.
 
 ---
 
