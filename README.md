@@ -7,6 +7,26 @@
 📫 Feel free to reach me at [petriksiano24@gmail.com](mailto:petriksiano24.com)    
 🐾 You can also reach me by this [Linktree](https://linktr.ee/petriksiano)
 
+## Experience
+#### 1. [PT Pangan Lestari](https://www.panganlestari.co.id/) | Purchasing Import | Sidoarjo `Mar 2024 - Present`
+   - Coordinated shipment schedules and managed import documentation (B/L, COA, COO, CIPL).
+   - Monitored import stock levels and leveraged DOI analysis to prevent overstocking or shortage.
+   - Optimized product data (pricing trends, container loading capacity, and temporary lead times).
+   - Developed internal tools (Notion-based logistics issue tracker and web-based product lookup).\
+   - Tracked expiry-sensitive inventory and coordinated actions with sales to prevent waste.
+
+#### 2. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Dec 2023`
+   - Logged 10+ high-quality business opportunities in CRM, contributing to high prospect conversion.
+   - Created targeted lead gen campaigns across key Saudi Arabia industries (manufacturing, healthcare, construction, oil & gas, mining).
+   - Researched 10+ potential partner products daily via e-commerce platforms to drive strategic sourcing.
+   - Compiled market analysis reports with actionable insights on industry trends and competitor movements.
+
+#### 3. [PT Indobit Digital Raya](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang `Feb 2023 - June 2023` 
+   - Delivered business insights for 3 fintech companies via EDA, data cleansing, and dashboarding.
+   - Applied design thinking and storytelling to map user journeys and build business flow narratives.
+   - Completed 4 project-based e-commerce cases using SQL, Python, and Looker Studio for insight extraction.
+   - Partnered with cross-functional teams to turn analytics into strategies that improved user experience.
+
 ## Education
 #### [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Oceanography | Semarang `2019-2023`
    - **Organization**  
@@ -15,22 +35,6 @@
    - **Learning Assistance**  
      - Field Assistant of Ocean Currents  
      - Field Assistant of Coastal and Marine Disaster Mitigation
-
-## Work Experience
-#### 1. [PT. Pangan Lestari](https://www.panganlestari.co.id/) | Purchasing Import | Sidoarjo `Mar 2024 - Present`
-   - Coordinating shipment schedules and managing the verification of key documents, including Invoices, Bills of Lading, COAs, and Packing Lists.
-   - Enhancing product data to support forecast decisions, including pricing, container loading capacity, lead time, and stock levels.
-   - Developing a Notion-based system for tracking and resolving logistics issues and building a web platform for internal product lookup.
-
-#### 2. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario `Nov 2023 - Dec 2023`
-   - Identified and recorded over 10 high-quality business opportunities in the CRM, leading to over 50% conversion rate with interested prospects.
-   - Designed lead generation campaigns targeting diverse industries in Saudi Arabia, including manufacturing, healthcare, construction, oil & gas, and mining.
-   - Spearheaded strategic partnerships, researching and identifying over 10 potential products daily on e-commerce platforms.
-
-#### 3. [PT. Indobit Digital Raya](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang `Feb 2023 - June 2023` 
-   - Designed business insights for 3 fintech companies through data analysis, including EDA, data cleansing, and dashboarding.
-   - Conducted business analysis using design thinking, storytelling, and business presentations, employing user journey maps, data product canvas, and business flow methods.
-   - Completed project-based learning in 4 e-commerce companies, leveraging SQL, Python, and Looker Studio to extract valuable insights.
 
 ### Tools
 
