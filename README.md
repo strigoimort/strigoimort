@@ -29,6 +29,10 @@
 
 ## Education
 #### [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Oceanography | Semarang `2019-2023`
+   **Thesis** <br>
+   The Effect of El Niño Southern Oscillation on Upwelling Intensity in Northern Papua Waters <br>
+   https://doi.org/10.12912/27197050/176505
+   
    - **Organization**  
      - Ikatan Mahasiswa Studi Offshore (IMSO) Indonesia  
      - Surveyor of Ocean Area (SONAR) Undip  
