@@ -33,7 +33,7 @@ Conducted market research and outreach for business expansion into the Middle Ea
 
 <br>
 
-#### 3. [PT Indobit Digital Raya (Bitlabs)](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang  
+#### 3. [PT Indobit Digital Raya (Bitlabs Academy)](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang  
 `Feb 2023 - June 2023`  
 Participated in an intensive data analytics program with a focus on real business use cases.
 - Delivered insights for 3 fintech firms through EDA, data cleansing, and dashboards.
