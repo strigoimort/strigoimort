@@ -2,8 +2,8 @@
 
 ## About Me
 🌱 Currently learning Python and JavaScript  
-🤖 Interested in Artificial Intelligence and Data-Driven Projects  
-🤝 Open to collaboration as a Data Analyst or Junior Developer  
+🤖 Interested in Supply Chain and Data-Driven Projects  
+🤝 Open to collaboration as a Supply Chain or Demand Planner  
 
 📫 Feel free to reach me at [petriksiano24@gmail.com](mailto:petriksiano24@gmail.com)  
 🐾 You can also connect with me via [Linktree](https://linktr.ee/petriksiano)
@@ -16,7 +16,7 @@
 `Mar 2024 - Present`  
 Oversaw the end-to-end import process of food products to ensure timely delivery and accurate documentation.
 - Coordinated shipment schedules and managed import documents (B/L, COA, COO, CIPL).
-- Monitored stock levels using DOI analysis to avoid overstocking or shortage.
+- Monitored stock levels using DOI analysis to avoid overstocking or shortages.
 - Optimized product data: pricing trends, container capacity, and lead time estimates.
 - Built internal tools (Notion issue tracker, web-based product search).
 - Tracked expiry-sensitive inventory and collaborated with sales to reduce waste.
