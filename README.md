@@ -51,13 +51,15 @@ Participated in an intensive data analytics program with a focus on real busines
 *The Effect of El Niño Southern Oscillation on Upwelling Intensity in Northern Papua Waters*  
 [DOI: 10.12912/27197050/176505](https://doi.org/10.12912/27197050/176505)
 
-**Organizations**  
+**Focuses**  
+- Ocean Currents
+- Climate Change
+- Atmosphere-Ocean Interactions  
+- Coastal and Marine Disaster Mitigation  
+
+**Organizations**
 - Ikatan Mahasiswa Studi Offshore (IMSO) Indonesia  
 - Surveyor of Ocean Area (SONAR) Undip
-
-**Field Assistance**  
-- Ocean Currents  
-- Coastal and Marine Disaster Mitigation  
 
 ---
 
@@ -77,8 +79,14 @@ Participated in an intensive data analytics program with a focus on real busines
 
 ## 🚀 Projects
 
-- 📊 [OceanoHelper](https://github.com/strigoimort/oceanohelper): Visualization tool for oceanographic data.  
+- 🌊 [OceanoHelper](https://github.com/strigoimort/oceanohelper): Visualization tool for oceanographic data.  
 - 📦 [Company Product Lookup](https://github.com/strigoimort/company-product-lookup): Internal company tool for tracking items.
+- 🧮 [Customer Segmentation with RFM Analysis](https://github.com/strigoimort/segmentation-customer-with-rfm-analysis): Customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
+- 🛒 [Customer Behavior for E-Commerce Conversion](https://github.com/strigoimort/customer-behavior-for-e-commerce-conversion): Analysis of customer behavior patterns affecting e-commerce conversion.
+- 💰 [Cost Effectiveness Analysis of Employee Payroll Scheme](https://github.com/strigoimort/cost-effectiveness-analysis-of-employee-payroll-scheme): Evaluates payroll structures to measure cost efficiency.
+- 🧾 [Account Segmentation of Partner Ledger](https://github.com/strigoimort/account-segmentation-of-partner-ledger): Segmentation analysis of partner ledger accounts for financial insights.
+- 📈 [Time Series Forecasting with XGBoost](https://github.com/strigoimort/timeseries-forecasting-xgboost): Forecasting future values using machine learning with XGBoost.
+- 💬 [Sentiment Analysis with VADER & RoBERTa](https://github.com/strigoimort/sentiment-analysis-vader-roberta): Sentiment classification using VADER and RoBERTa NLP models.
 
 ---
 
