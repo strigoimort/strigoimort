@@ -15,13 +15,13 @@
 #### 1. [PT Pangan Lestari](https://www.panganlestari.co.id/) | Purchasing Import | Sidoarjo  
 `Mar 2024 - Present`  
 Oversaw the end-to-end import process of food products to ensure timely delivery and accurate documentation.
-- Coordinated shipment schedules and managed import documents (B/L, COA, COO, CIPL).
-- Monitored stock levels using DOI analysis to avoid overstocking or shortages.
-- Optimized product data: pricing trends, container capacity, and lead time estimates.
-- Built internal tools (Notion issue tracker, web-based product search).
-- Tracked expiry-sensitive inventory and collaborated with sales to reduce waste.
-
-<br>
+- Managed stock control using DOI analysis through ERP to prevent overstock or shortage.
+- Coordinated international shipment schedules and handled key documents (B/L, COA, CIPL).
+- Verified GRN and reconciled documents with finance to prevent invoice discrepancies.
+- Monitored expiry-sensitive inventory and aligned with sales and operations to reduce waste risk.
+- Generated shipment performance reports tracking value and delivery timelines.
+- Developed internal Supply Chain tools (Notion issue tracker and product lookup system).
+- Optimized supply database including price trends, container capacity, and lead times.
 
 #### 2. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario  
 `Nov 2023 - Dec 2023`  
@@ -30,8 +30,6 @@ Conducted market research and outreach for business expansion into the Middle Ea
 - Ran targeted campaigns across Saudi Arabia's key sectors: manufacturing, healthcare, energy.
 - Researched 10+ supplier products daily via e-commerce platforms for sourcing.
 - Compiled reports with actionable insights on competitors and industry trends.
-
-<br>
 
 #### 3. [PT Indobit Digital Raya (Bitlabs Academy)](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang  
 `Feb 2023 - June 2023`  
