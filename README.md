@@ -1,7 +1,7 @@
 # Hello there, I'm Petrik 👋
 
 ## About Me
-🌱 Currently learning Python and JavaScript  
+🌱 Currently learning JavaScript  
 🤖 Interested in Supply Chain and Data-Driven Projects  
 🤝 Open to collaboration as a Supply Chain or Demand Planner  
 
