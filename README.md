@@ -1,4 +1,4 @@
-# Hello there, I'm Petrik 👋
+# Hello, I'm Petrik 👋
 
 ## About Me
 🌱 Currently learning JavaScript  
