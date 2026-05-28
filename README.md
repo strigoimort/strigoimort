@@ -1,5 +1,13 @@
 # Hello, I'm Petrik 👋
 
+### 🌊 Oceanography | Supply Chain | Data Analytics
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript)
+![React](https://img.shields.io/badge/React-Beginner-61DAFB?logo=react)
+![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Import%20%26%20Planning-green)
+![Oceanography](https://img.shields.io/badge/Oceanography-Remote%20Sensing-0A66C2)
+
+---
+
 ## About Me
 🌱 Currently learning JavaScript  
 🤖 Interested in Supply Chain and Data-Driven Projects  
@@ -12,68 +20,66 @@
 
 ## 🧠 Experience
 
-#### 1. [PT Pangan Lestari](https://www.panganlestari.co.id/) | Purchasing Import | Sidoarjo  
-`Mar 2024 - Present`  
-Oversaw the end-to-end import process of food products to ensure timely delivery and accurate documentation.
-- Managed stock control using DOI analysis through ERP to prevent overstock or shortage.
-- Coordinated international shipment schedules and handled key documents (B/L, COA, CIPL).
-- Verified GRN and reconciled documents with finance to prevent invoice discrepancies.
-- Monitored expiry-sensitive inventory and aligned with sales and operations to reduce waste risk.
-- Generated shipment performance reports tracking value and delivery timelines.
-- Developed internal Supply Chain tools (Notion issue tracker and product lookup system).
-- Optimized supply database including price trends, container capacity, and lead times.
-
-#### 2. [GAOTek Inc.](https://www.gaotek.com) | Business Development | Ontario  
-`Nov 2023 - Dec 2023`  
-Conducted market research and outreach for business expansion into the Middle East.
-- Logged 10+ high-quality opportunities in CRM, improving prospect conversion.
-- Ran targeted campaigns across Saudi Arabia's key sectors: manufacturing, healthcare, energy.
-- Researched 10+ supplier products daily via e-commerce platforms for sourcing.
-- Compiled reports with actionable insights on competitors and industry trends.
-
-#### 3. [PT Indobit Digital Raya (Bitlabs Academy)](https://academy.bitlabs.id) | Data Analytics for Business | Tangerang  
-`Feb 2023 - June 2023`  
-Participated in an intensive data analytics program with a focus on real business use cases.
-- Delivered insights for 3 fintech and e-commerce companies via EDA, data cleansing, and dashboarding.
-- Completed 4 projects using SQL, Python, and Looker Studio for insight extraction.
-- Applied design thinking and storytelling to map user journeys and build business flow narratives.
-- Partnered with cross-functional teams to turn analytics into strategies that improved user experience.
-
+### 📦 PT Pangan Lestari — Purchasing Import
+📍 Sidoarjo  
+🗓️ Mar 2024 – Present
+#### Key Contributions
+- Managed stock control using DOI analysis through ERP systems
+- Coordinated shipment schedules and import documentation (B/L, COA, CIPL)
+- Verified GRN and reconciled invoices with finance teams
+- Monitored expiry-sensitive inventory to reduce waste risk
+- Built internal operational tools using Notion and database systems
+- Optimized supplier databases, including pricing trends and lead times
 
 ---
 
+### 📈 GAOTek Inc. — Business Development
+📍 Ontario  
+🗓️ Nov 2023 – Dec 2023
+#### Key Contributions
+- Generated 10+ qualified business opportunities in CRM systems
+- Conducted targeted research across manufacturing, healthcare, and energy sectors
+- Performed supplier sourcing through e-commerce and B2B platforms
+- Compiled competitor and market intelligence reports
+
+---
+
+### 📊 Bitlabs Academy — Data Analytics for Business
+📍 Tangerang  
+🗓️ Feb 2023 – Jun 2023
+#### Key Contributions
+- Delivered analytics insights for fintech and e-commerce case studies
+- Built projects using SQL, Python, and Looker Studio
+- Applied EDA, data cleaning, and dashboarding techniques
+- Collaborated on user journey mapping and business storytelling
+
+---
 ## 🎓 Education
-
-#### [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Oceanography | Semarang  
-`2019 – 2023`  
-
-**Thesis**  
-*The Effect of El Niño Southern Oscillation on Upwelling Intensity in Northern Papua Waters*  
-[DOI: 10.12912/27197050/176505](https://doi.org/10.12912/27197050/176505)
-
-**Focuses**  
+### 🎓 Universitas Diponegoro — Bachelor of Oceanography
+📍 Semarang  
+🗓️ 2019 – 2023
+#### Thesis
+**The Effect of El Niño Southern Oscillation on Upwelling Intensity in Northern Papua Waters**
+DOI: https://doi.org/10.12912/27197050/176505
+#### Academic Focus
 - Ocean Currents
 - Climate Change
-- Atmosphere-Ocean Interactions  
-- Coastal and Marine Disaster Mitigation  
-
-**Organizations**
-- Ikatan Mahasiswa Studi Offshore (IMSO) Indonesia  
+- Atmosphere-Ocean Interactions
+- Coastal & Marine Disaster Mitigation
+#### Organizations
+- Ikatan Mahasiswa Studi Offshore (IMSO) Indonesia
 - Surveyor of Ocean Area (SONAR) Undip
 
 ---
-
 ## 🛠️ Tools & Technologies
-
-<img src="./img/html5-02-svgrepo-com.svg" width="30px" title="HTML"> &nbsp;
-<img src="./img/css3-02-svgrepo-com.svg" width="30px" title="CSS"> &nbsp;
-<img src="./img/javascript-fill-svgrepo-com.svg" width="30px" title="JavaScript"> &nbsp;
-<img src="./img/python.svg" width="30px" title="Python"> &nbsp;
-<img src="./img/r.svg" width="30px" title="R"> &nbsp;
-<img src="./img/idl.svg" width="30px" title="IDL"> &nbsp;
-<img src="./img/googlebigquery.svg" width="30px" title="Google BigQuery"> &nbsp;
-<img src="./img/tableau.svg" width="30px" title="Tableau"> &nbsp;
-<img src="./img/powerbi.svg" width="30px" title="Power BI"> &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
 ---
 
@@ -90,19 +96,17 @@ Participated in an intensive data analytics program with a focus on real busines
 
 ---
 
-## 🤝 Connect with Me
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=strigoimort&show_icons=true&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strigoimort&layout=compact&theme=catppuccin_mocha)
 
-<a href="https://linkedin.com/in/petriksiano" target="_blank">
-  <img src="./img/linkedin.svg" width="30px" title="LinkedIn">
-</a>
-&nbsp;
-<a href="https://github.com/strigoimort" target="_blank">
-  <img src="./img/github.svg" width="30px" title="GitHub">
-</a>
-&nbsp;
-<a href="https://instagram.com/petriksiano" target="_blank">
-  <img src="./img/instagram.svg" width="30px" title="Instagram">
-</a>
+---
+
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Petrik%20Siano-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/petriksiano)
+[![GitHub](https://img.shields.io/badge/GitHub-strigoimort-black?logo=github&logoColor=white)](https://github.com/strigoimort)
+[![Instagram](https://img.shields.io/badge/Instagram-@petriksiano-E4405F?logo=instagram&logoColor=white)](https://instagram.com/petriksiano)
 
 ---
 
