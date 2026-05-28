@@ -1,6 +1,6 @@
 # Hello, I'm Petrik 👋
 
-### 🌊 Oceanography | Supply Chain | Data Analytics
+### 🌊 Oceanography | 📦 Supply Chain | 📊 Data Analytics
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-Beginner-61DAFB?logo=react)
 ![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Import%20%26%20Planning-green)
@@ -9,6 +9,8 @@
 ---
 
 ## About Me
+
+Passionate about building data-driven solutions for maritime and operational systems.
 🌱 Currently learning JavaScript  
 🤖 Interested in Supply Chain and Data-Driven Projects  
 🤝 Open to collaboration as a Supply Chain or Demand Planner  
@@ -85,18 +87,19 @@ DOI: https://doi.org/10.12912/27197050/176505
 
 ## 🚀 Projects
 
-- 🌊 [OceanoHelper](https://github.com/strigoimort/oceanohelper): Visualization tool for oceanographic data.  
+- 🌊 [OceanoHelper](https://github.com/strigoimort/oceanohelper): Visualization tool for oceanographic data.
+- 📈 [Time Series Forecasting with XGBoost](https://github.com/strigoimort/timeseries-forecasting-xgboost): Forecasting future values using machine learning with XGBoost.
 - 📦 [Company Product Lookup](https://github.com/strigoimort/company-product-lookup): Internal company tool for tracking items.
 - 🧮 [Customer Segmentation with RFM Analysis](https://github.com/strigoimort/segmentation-customer-with-rfm-analysis): Customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
 - 🛒 [Customer Behavior for E-Commerce Conversion](https://github.com/strigoimort/customer-behavior-for-e-commerce-conversion): Analysis of customer behavior patterns affecting e-commerce conversion.
 - 💰 [Cost Effectiveness Analysis of Employee Payroll Scheme](https://github.com/strigoimort/cost-effectiveness-analysis-of-employee-payroll-scheme): Evaluates payroll structures to measure cost efficiency.
 - 🧾 [Account Segmentation of Partner Ledger](https://github.com/strigoimort/account-segmentation-of-partner-ledger): Segmentation analysis of partner ledger accounts for financial insights.
-- 📈 [Time Series Forecasting with XGBoost](https://github.com/strigoimort/timeseries-forecasting-xgboost): Forecasting future values using machine learning with XGBoost.
 - 💬 [Sentiment Analysis with VADER & RoBERTa](https://github.com/strigoimort/sentiment-analysis-vader-roberta): Sentiment classification using VADER and RoBERTa NLP models.
 
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=strigoimort&show_icons=true&theme=catppuccin_mocha)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strigoimort&layout=compact&theme=catppuccin_mocha)
 
