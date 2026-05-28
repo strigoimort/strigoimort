@@ -10,7 +10,8 @@
 
 ## About Me
 
-Passionate about building data-driven solutions for maritime and operational systems.
+Passionate about building data-driven solutions for maritime and operational systems.  
+
 🌱 Currently learning JavaScript  
 🤖 Interested in Supply Chain and Data-Driven Projects  
 🤝 Open to collaboration as a Supply Chain or Demand Planner  
@@ -61,10 +62,9 @@ Passionate about building data-driven solutions for maritime and operational sys
 📍 Semarang  
 🗓️ 2019 – 2023
 #### Thesis
-**The Effect of El Niño Southern Oscillation on Upwelling Intensity in Northern Papua Waters**
+The Effect of El Niño Southern Oscillation on Upwelling Intensity in Northern Papua Waters  
 DOI: https://doi.org/10.12912/27197050/176505
 #### Academic Focus
-- Ocean Currents
 - Climate Change
 - Atmosphere-Ocean Interactions
 - Coastal & Marine Disaster Mitigation
