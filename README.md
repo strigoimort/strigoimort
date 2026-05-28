@@ -3,6 +3,7 @@
 ### 🌊 Oceanography | 📦 Supply Chain | 📊 Data Analytics
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-Beginner-61DAFB?logo=react)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Import%20%26%20Planning-green)
 ![Oceanography](https://img.shields.io/badge/Oceanography-Remote%20Sensing-0A66C2)
 
